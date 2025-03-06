@@ -9,6 +9,10 @@ heading 1 on homepage, but also assertion of the team
 Text files including titles will be saved to the
 project directory, within unique file name, including
 timestamp.
+
+Test automation tool : Playwright;
+Programming language: TypeScript;
+Framework: Playwright Test;
 ```
 
 **Table of content:**
